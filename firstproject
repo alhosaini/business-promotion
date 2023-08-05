@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PS5 Promotion Website</title>
+    <style>
+        /* Add your CSS styling here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        /* Customize the styles to fit your website's theme */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        /* Add more styles for other elements like buttons, images, etc. */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PS5 Promotion Website</h1>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About PS5</h2>
+            <p>
+                Insert some brief information about the PS5 here, highlighting its features and why it's a must-have gaming console.
+            </p>
+            <!-- Add images or videos of PS5 here to showcase its design and gameplay -->
+        </section>
+
+        <section id="specs">
+            <h2>Specifications</h2>
+            <ul>
+                <li>Processor: [Insert Processor Details]</li>
+                <li>Graphics: [Insert Graphics Details]</li>
+                <li>Storage: [Insert Storage Details]</li>
+                <!-- Add more specifications here -->
+            </ul>
+        </section>
+
+        <section id="pricing">
+            <h2>Pricing</h2>
+            <p>
+                Describe the different pricing options for the PS5, including any bundle deals or special offers.
+            </p>
+            <!-- Add pricing table or any other pricing elements here -->
+        </section>
+
+        <section id="order">
+            <h2>Order Now</h2>
+            <p>
+                Provide a clear call-to-action for users to purchase the PS5, and include any steps or links to complete the order process.
+            </p>
+            <!-- Add order button or link here -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>
+                Provide contact information so users can get in touch with your business for any inquiries or support.
+            </p>
+            <!-- Add contact details like phone number, email, address, etc. -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Business Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
